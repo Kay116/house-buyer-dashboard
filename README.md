@@ -58,8 +58,7 @@ house-buyer-dashboard/
 
 ## 📸 Dashboard Preview
 
-> *(Replace the image below after uploading your screenshot.)*
-
+![Dashboard Preview](dashboard-preview.png)
 
 
 ---
